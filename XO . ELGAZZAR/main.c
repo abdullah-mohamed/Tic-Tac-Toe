@@ -16,7 +16,7 @@ void check_row (void);
 int main()
 {
     printf("Welcome to XO game.\n");
-    printf("made by : Ahmed Elgazzar.\n");
+    printf("made by : Abdullah Mohamed Abunar.\n");
     printf("Rules: \n1. Player X starts first.\n2. Enter CAPITAl letters only.\n3. To win, connect 3 horizontal, vertical or Diagonal places.\n");
     printf("To play:\n Enter symbol (X or O) then\n Enter a number between 1 and 9.\n");
     while(end_game == 0){
